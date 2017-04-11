@@ -21,6 +21,20 @@ Der Workshop findet am 27.4.2017 von 9:45 - 11:45 und von 12:45 - 14:45 statt.
 - erstes Beispiel http://example.org
 - zweites Beispiel http://example.org
 - online Editor: http://example.org
+- https://github.com/lancaster-university/microbit
+- Editor: https://pxt.microbit.org/?lang=de
+- https://microbit-playground.co.uk/
+- http://www.bbc.co.uk/programmes/articles/2M3H2YpKLsw2W8fC2ycHYSR/welcome-to-the-micro-bit-live-lesson
+- https://codeclubprojects.org/en-GB/microbit/reaction/
+- http://microbit.org/assets/documents/Parent-and-Teacher-micro-bit-safety-guide.pdf
+- https://www.microbit.co.uk/ck
+- https://microbit-playground.co.uk/cheat-sheet/
+- http://microbit.org/ideas/
+- https://www.microbit.co.uk/blocks/lessons
+- http://microbit.org/de/code/
+
+
+
 
 
 ### Markdown Help
