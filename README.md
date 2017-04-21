@@ -34,7 +34,7 @@ Der Workshop findet am 27.4.2017 von 9:45 - 11:45 und von 12:45 - 14:45 statt.
 - http://microbit.org/de/code/
 
 
-
+Github.io: https://clemenstyp.github.io/GirlsDay-MicroBit/
 
 
 ### Markdown Help
