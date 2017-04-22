@@ -18,7 +18,7 @@ Der Workshop findet am 27.4.2017 von 9:45 - 11:45 und von 12:45 - 14:45 statt.
 |11:40 (14:40) | Reflexion | Kurze Reflexion wie es den Teilnehmerinnen gefallen hat. Entweder wird ein kurzes Blitzlicht gemacht oder es wird eine Micro:Bit Reflexion App genutzt (Bei der App kann man mit den Tasten des Micro:Bits zwischen Super, Mittel und Kacke auswählen. |
 
 ## Links:
-- erstes Beispiel http://example.org
+- erstes Beispiel [http://example.org](http://example.org)
 - zweites Beispiel http://example.org
 - online Editor: http://example.org
 - https://github.com/lancaster-university/microbit
