@@ -4,7 +4,7 @@
 In dem Workshop lernen wir, wie man kleine Programme schreibt und was man dann noch an coolen Dingen mit dem micro:bit anstellen kann. Diese Basics werden mit viel Praxis direkt in kreativen Projekten ausprobiert. Anschließend kann jede Teilnehmerin einen micro:bit mit nach Hause nehmen, um weiter daran zu üben und dann noch mehr kreative Dinge damit zu erstellen.
 
 ## Ablauf:
-Der Workshop findet am 27.4.2017 von 9:45 - 11:45 und von 12:45 - 14:45 statt. 
+Der Workshop findet am **27.4.2017** von **9:45 - 11:45** und von **12:45 - 14:45** statt. 
 
 | Zeit         |      Beschreibung                 |  Bemerkung     |
 |--------------|-----------------------------------|----------------|
