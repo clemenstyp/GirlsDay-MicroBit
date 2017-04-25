@@ -18,11 +18,11 @@ Der Workshop findet am **27.4.2017** von **9:45 - 11:45** und von **12:45 - 14:4
 |11:40 (14:40) | Reflexion | Kurze Reflexion wie es den Teilnehmerinnen gefallen hat. Entweder wird ein kurzes Blitzlicht gemacht, oder es wird eine Micro:Bit Reflexion App genutzt (Bei der App kann man mit den Tasten des Micro:Bits zwischen Super, Mittel und Kacke auswählen). |
 
 ## Links:
-- erstes Beispiel [http://example.org](http://example.org)
-- zweites Beispiel [http://example.org](http://example.org)
-- online Editor: [http://example.org](http://example.org)
+- erstes Beispiel (Würfel): [https://pxt.microbit.org/02160-13677-24474-61646](https://pxt.microbit.org/02160-13677-24474-61646)
+- zweites Beispiel (Würfel vereinfacht): [https://pxt.microbit.org/38129-53595-79641-79509](https://pxt.microbit.org/38129-53595-79641-79509)
+- drittes Beispiel (Türschild): [https://pxt.microbit.org/98335-61183-64998-47776](https://pxt.microbit.org/98335-61183-64998-47776)
+- online Editor: [https://pxt.microbit.org/?lang=de](https://pxt.microbit.org/?lang=de)
 - [https://github.com/lancaster-university/microbit](https://github.com/lancaster-university/microbit)
-- Editor: [https://pxt.microbit.org/?lang=de](https://pxt.microbit.org/?lang=de)
 - [https://microbit-playground.co.uk/](https://microbit-playground.co.uk/)
 - [http://www.bbc.co.uk/programmes/articles/2M3H2YpKLsw2W8fC2ycHYSR/welcome-to-the-micro-bit-live-lesson](http://www.bbc.co.uk/programmes/articles/2M3H2YpKLsw2W8fC2ycHYSR/welcome-to-the-micro-bit-live-lesson)
 - [https://codeclubprojects.org/en-GB/microbit/reaction/](https://codeclubprojects.org/en-GB/microbit/reaction/)
