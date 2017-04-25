@@ -37,7 +37,7 @@ Der Workshop findet am **27.4.2017** von **9:45 - 11:45** und von **12:45 - 14:4
 Github.io: [https://clemenstyp.github.io/GirlsDay-MicroBit/](https://clemenstyp.github.io/GirlsDay-MicroBit/)
 
 
-### Markdown Help
+<!--- ### Markdown Help
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
@@ -59,5 +59,5 @@ Syntax highlighted code block
 [Link](url) and ![Image](src)
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).-->
 
