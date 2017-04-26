@@ -11,13 +11,13 @@ Der Workshop findet am **27.4.2017** von **9:45 - 11:45** und von **12:45 - 14:4
 | 9:45 (12:45) | Kurze Begrüßung mit Vorstellrunde | Jedes Mädchen soll sich vorstellen und erzählen ob es schon etwas am Computer gemacht hat |
 | 10:00 (13:00) | Kurze Einführung in den Micro:Bit   | Das Gerät zeigen und die Funktionen kurz erklären (Tasten, LEDs, Batterie, PIN, USB, Reset, Kompass, Beschleunigungsmesser) |
 | 10:15 (13:15) | Onlineeditor vorstellen |  Eine kurze Einführung in den Onlineeditor geben. Wie installiere ich ein Programm auf den Micro:Bit, wie lasse ich den Code im Browser laufen. |
-|10:30 (13:40) | Erste Versuche mit dem Online Editor | Jeder soll das Beispielprojekt im Browser öffnen und sich anschauen. Verstehen die Kinder das Projekt? Dann sollen sie mal auf den Play Button drücken. Was passiert dann? Kann wer das Programm erklären? Ansonsten erkläre ich das Programm |
-|  | Das zweite Beispiel | Jetzt wird das zweite Beispielprogramm geöffnet. Kann das jemand erklären was passiert ohne auf den Play Button zu drücken? |
+|10:30 (13:40) | Erste Versuche mit dem Online Editor | Jeder soll das Beispielprojekt im Browser öffnen und sich anschauen. Verstehen die Kinder das Projekt? Dann sollen sie mal auf den Play Button drücken. Was passiert dann? Kann wer das Programm erklären? Ansonsten erkläre ich das Programm [Beispiel](https://pxt.microbit.org/90160-58930-77638-19883)|
 |10:45 (13:45) | Das Programm anpassen | Jetzt verändern wir mal das Programm. Wie könnte man das Programm verbessern? Was kann man noch einbauen?|
 |11:15 (14:15) | Brainstorming nach neuen Ideen | Was könnte man noch mit dem Micro:Bit alles machen? Ich zeige auch ein paar Onlineseiten wo man weitere Hilfe bekommt. |
 |11:40 (14:40) | Reflexion | Kurze Reflexion wie es den Teilnehmerinnen gefallen hat. Entweder wird ein kurzes Blitzlicht gemacht, oder es wird eine Micro:Bit Reflexion App genutzt (Bei der App kann man mit den Tasten des Micro:Bits zwischen Super, Mittel und Kacke auswählen). |
 
 ## Links:
+- Beispielprogramm: [https://pxt.microbit.org/90160-58930-77638-19883](https://pxt.microbit.org/90160-58930-77638-19883)
 - online Editor: [https://pxt.microbit.org/?lang=de](https://pxt.microbit.org/?lang=de)
 - BBC MicroBit Seite: [http://microbit.org/de/](http://microbit.org/de/)
 - Einführung ins Programmieren: [https://calliope.cc/content/7-lehrer-informationen/booklet_calliope_mit_hinweis_auf_lizenzform_ohne_stockfoto_end.pdf](https://calliope.cc/content/7-lehrer-informationen/booklet_calliope_mit_hinweis_auf_lizenzform_ohne_stockfoto_end.pdf)
