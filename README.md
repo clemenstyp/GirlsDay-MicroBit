@@ -22,11 +22,10 @@ Der Workshop findet am **27.4.2017** von **9:45 - 11:45** und von **12:45 - 14:4
 - BBC MicroBit Seite: [http://microbit.org/de/](http://microbit.org/de/)
 - Einführung ins Programmieren: [https://calliope.cc/content/7-lehrer-informationen/booklet_calliope_mit_hinweis_auf_lizenzform_ohne_stockfoto_end.pdf](https://calliope.cc/content/7-lehrer-informationen/booklet_calliope_mit_hinweis_auf_lizenzform_ohne_stockfoto_end.pdf)
 - Code Referenz: [https://pxt.microbit.org/reference](https://pxt.microbit.org/reference)
-
-- Beispielanwendungen:
-- - Würfel: [https://pxt.microbit.org/02160-13677-24474-61646](https://pxt.microbit.org/02160-13677-24474-61646)
-- - Würfel vereinfacht: [https://pxt.microbit.org/38129-53595-79641-79509](https://pxt.microbit.org/38129-53595-79641-79509)
-- - Türschild: [https://pxt.microbit.org/98335-61183-64998-47776](https://pxt.microbit.org/98335-61183-64998-47776)
+## Beispielanwendungen:
+- Würfel: [https://pxt.microbit.org/02160-13677-24474-61646](https://pxt.microbit.org/02160-13677-24474-61646)
+- Würfel vereinfacht: [https://pxt.microbit.org/38129-53595-79641-79509](https://pxt.microbit.org/38129-53595-79641-79509)
+- Türschild: [https://pxt.microbit.org/98335-61183-64998-47776](https://pxt.microbit.org/98335-61183-64998-47776)
 
 ## Sonstige Links (nicht so wichtig)
 - MicroBit Playground: [https://microbit-playground.co.uk/](https://microbit-playground.co.uk/)
