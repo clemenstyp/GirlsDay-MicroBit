@@ -18,20 +18,22 @@ Der Workshop findet am **27.4.2017** von **9:45 - 11:45** und von **12:45 - 14:4
 |11:40 (14:40) | Reflexion | Kurze Reflexion wie es den Teilnehmerinnen gefallen hat. Entweder wird ein kurzes Blitzlicht gemacht, oder es wird eine Micro:Bit Reflexion App genutzt (Bei der App kann man mit den Tasten des Micro:Bits zwischen Super, Mittel und Kacke auswählen). |
 
 ## Links:
-- erstes Beispiel (Würfel): [https://pxt.microbit.org/02160-13677-24474-61646](https://pxt.microbit.org/02160-13677-24474-61646)
-- zweites Beispiel (Würfel vereinfacht): [https://pxt.microbit.org/38129-53595-79641-79509](https://pxt.microbit.org/38129-53595-79641-79509)
-- drittes Beispiel (Türschild): [https://pxt.microbit.org/98335-61183-64998-47776](https://pxt.microbit.org/98335-61183-64998-47776)
 - online Editor: [https://pxt.microbit.org/?lang=de](https://pxt.microbit.org/?lang=de)
-- [https://github.com/lancaster-university/microbit](https://github.com/lancaster-university/microbit)
-- [https://microbit-playground.co.uk/](https://microbit-playground.co.uk/)
-- [http://www.bbc.co.uk/programmes/articles/2M3H2YpKLsw2W8fC2ycHYSR/welcome-to-the-micro-bit-live-lesson](http://www.bbc.co.uk/programmes/articles/2M3H2YpKLsw2W8fC2ycHYSR/welcome-to-the-micro-bit-live-lesson)
-- [https://codeclubprojects.org/en-GB/microbit/reaction/](https://codeclubprojects.org/en-GB/microbit/reaction/)
-- [http://microbit.org/assets/documents/Parent-and-Teacher-micro-bit-safety-guide.pdf](http://microbit.org/assets/documents/Parent-and-Teacher-micro-bit-safety-guide.pdf)
-- [https://www.microbit.co.uk/ck](https://www.microbit.co.uk/ck)
-- [https://microbit-playground.co.uk/cheat-sheet/](https://microbit-playground.co.uk/cheat-sheet/)
-- [http://microbit.org/de/ideas/](http://microbit.org/de/ideas/)
-- [https://www.microbit.co.uk/blocks/lessons](https://www.microbit.co.uk/blocks/lessons)
-- [http://microbit.org/de/code/](http://microbit.org/de/code/)
+- BBC MicroBit Seite: [http://microbit.org/de/](http://microbit.org/de/)
+- Einführung ins Programmieren: [https://calliope.cc/content/7-lehrer-informationen/booklet_calliope_mit_hinweis_auf_lizenzform_ohne_stockfoto_end.pdf](https://calliope.cc/content/7-lehrer-informationen/booklet_calliope_mit_hinweis_auf_lizenzform_ohne_stockfoto_end.pdf)
+- Code Referenz: [https://pxt.microbit.org/reference](https://pxt.microbit.org/reference)
+
+- Beispielanwendungen:
+- - Würfel: [https://pxt.microbit.org/02160-13677-24474-61646](https://pxt.microbit.org/02160-13677-24474-61646)
+- - Würfel vereinfacht: [https://pxt.microbit.org/38129-53595-79641-79509](https://pxt.microbit.org/38129-53595-79641-79509)
+- - Türschild: [https://pxt.microbit.org/98335-61183-64998-47776](https://pxt.microbit.org/98335-61183-64998-47776)
+
+## Sonstige Links (nicht so wichtig)
+- MicroBit Playground: [https://microbit-playground.co.uk/](https://microbit-playground.co.uk/)
+- Live Lessons: [http://www.bbc.co.uk/programmes/articles/2M3H2YpKLsw2W8fC2ycHYSR/welcome-to-the-micro-bit-live-lesson](http://www.bbc.co.uk/programmes/articles/2M3H2YpKLsw2W8fC2ycHYSR/welcome-to-the-micro-bit-live-lesson)
+- Verschiedene MicroBit Ideen: [https://codeclubprojects.org/en-GB/microbit/](https://codeclubprojects.org/en-GB/microbit/)
+- Reactions (ein 2 Personen Spiel): [https://codeclubprojects.org/en-GB/microbit/reaction/](https://codeclubprojects.org/en-GB/microbit/reaction/)
+- Weitere Beispielanwendungen: [https://www.microbit.co.uk/blocks/lessons](https://www.microbit.co.uk/blocks/lessons)
 
 
 Github.io: [https://clemenstyp.github.io/GirlsDay-MicroBit/](https://clemenstyp.github.io/GirlsDay-MicroBit/)
