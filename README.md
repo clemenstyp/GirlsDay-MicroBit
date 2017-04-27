@@ -16,16 +16,20 @@ Der Workshop findet am **27.4.2017** von **9:45 - 11:45** und von **12:45 - 14:4
 |11:15 (14:15) | Brainstorming nach neuen Ideen | Was könnte man noch mit dem Micro:Bit alles machen? Ich zeige auch ein paar Onlineseiten wo man weitere Hilfe bekommt. |
 |11:40 (14:40) | Reflexion | Kurze Reflexion wie es den Teilnehmerinnen gefallen hat. Entweder wird ein kurzes Blitzlicht gemacht, oder es wird eine Micro:Bit Reflexion App genutzt (Bei der App kann man mit den Tasten des Micro:Bits zwischen Super, Mittel und Kacke auswählen). |
 
+
 ## Links:
 - Beispielprogramm: [https://pxt.microbit.org/90160-58930-77638-19883](https://pxt.microbit.org/90160-58930-77638-19883)
 - online Editor: [https://pxt.microbit.org/?lang=de](https://pxt.microbit.org/?lang=de)
 - BBC MicroBit Seite: [http://microbit.org/de/](http://microbit.org/de/)
 - Einführung ins Programmieren: [https://calliope.cc/content/7-lehrer-informationen/booklet_calliope_mit_hinweis_auf_lizenzform_ohne_stockfoto_end.pdf](https://calliope.cc/content/7-lehrer-informationen/booklet_calliope_mit_hinweis_auf_lizenzform_ohne_stockfoto_end.pdf)
 - Code Referenz: [https://pxt.microbit.org/reference](https://pxt.microbit.org/reference)
+
+
 ## Beispielanwendungen:
 - Würfel: [https://pxt.microbit.org/02160-13677-24474-61646](https://pxt.microbit.org/02160-13677-24474-61646)
 - Würfel vereinfacht: [https://pxt.microbit.org/38129-53595-79641-79509](https://pxt.microbit.org/38129-53595-79641-79509)
 - Türschild: [https://pxt.microbit.org/98335-61183-64998-47776](https://pxt.microbit.org/98335-61183-64998-47776)
+
 
 ## Sonstige Links (nicht so wichtig)
 - MicroBit Playground: [https://microbit-playground.co.uk/](https://microbit-playground.co.uk/)
