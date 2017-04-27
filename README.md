@@ -37,6 +37,18 @@ Der Workshop findet am **27.4.2017** von **9:45 - 11:45** und von **12:45 - 14:4
 
 Github.io: [https://clemenstyp.github.io/GirlsDay-MicroBit/](https://clemenstyp.github.io/GirlsDay-MicroBit/)
 
+## HILFE
+Stand: 27.04.2017
+### Wie lade ich mein Programm herunter?
+1. Bleibe auf dieser Seite bzw. rufe die Seite [https://github.com/clemenstyp/GirlsDay-MicroBit](https://github.com/clemenstyp/GirlsDay-MicroBit) auf.
+2. Klicke oben rechts auf "Clone or download".
+3. Klicke im Menü auf "Download ZIP". Es wird ein so genanntes "ZIP-Archiv" (ein Ordner, der komprimiert - also verkleinert - ist) heruntergeladen, der alle Ordner und Dateien enthält.
+4. Dein Programm befindet sich in dem ZIP-Archiv genau in dem Ordner, unter dem du es im Workshop gespeichert hattest. Kopiere das Programm (eine Datei mit der Endung ".hex") aus dem ZIP-Archiv in einen Ordner deiner Wahl.
+### Wie kann ich an meinem Programm bzw. Projekt weiterarbeiten?
+1. Lade dir dein Programm herunter. Falls du nicht weißt, wie das geht, schau noch einmal unter der Frage oben nach. Merke dir den Ordner, in den du dein Programm gespeichert hast, gut.
+2. Öffne den [Online Editor](https://pxt.microbit.org/?lang=de) und klicke oben links auf "Projekte".
+3. Wähle im neuen Fenster "Datei importieren" aus und klicke auf "Datei auswählen".
+4. Suche deine Datei mit der Endung ".hex", die du in Schritt 1 gespeichert hast und klicke auf "Los geht's". Dein Programm sollte nun geladen werden und du kannst weitere Änderungen durchführen. Das Programm kannst du dann wie im Workshop gezeigt wieder herunterladen und auf deinem micro:bit ausprobieren. Viel Spaß damit ;-)
 
 <!--- ### Markdown Help
 
