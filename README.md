@@ -1,10 +1,28 @@
 # Coole Dinge mit micro:bit programmieren
 ## (7. - 10. Klasse)
 
+[Girls'Day micro:bit/](https://clemenstyp.github.io/GirlsDay-MicroBit/)
+
 In dem Workshop lernen wir, wie man kleine Programme schreibt und was man dann noch an coolen Dingen mit dem micro:bit anstellen kann. Diese Basics werden mit viel Praxis direkt in kreativen Projekten ausprobiert. Anschließend kann jede Teilnehmerin einen micro:bit mit nach Hause nehmen, um weiter daran zu üben und dann noch mehr kreative Dinge damit zu erstellen.
 
+# Einführung in die Informatik
+
+Diese Präsentation beruht auf der Präsentation von [stritti](https://github.com/stritti/girlsday-einfuehrung-informatik/blob/master/README.md).
+
+**Deutsch:** Präsentation in HTML: **"Eine Einführung in die Informatik"**.
+
+## [▶ Präsentation starten](https://clemenstyp.github.io/GirlsDay-MicroBit/einfuehrung-in-die-informatik)
+
+
+> Diese Präsentation ist komplett in Deutsch gehalten. Sie ist auf Teeanager ab dem 10. Lebensjahr ausgerichtet und soll ihnen den Spaß an der Informatik zeigen. Um die Hürden möglichst niedrig zu halten, ist der Inhalt Deutsch.
+
+ **English:** Presentation in HTML: **"An introduction to computer science"**.
+
+ > This presentation is completely in German. It is aimed at tea managers from the age of 10 and should show them the fun of computer science. To keep the hurdles as low as possible, the content is in German.
+
+
 ## Ablauf:
-Der Workshop findet am **26.4.2018** von **9:45 - 11:45** und von **12:45 - 14:45** statt. 
+Der Workshop findet am **26.4.2018** von **9:45 - 11:45** und von **12:45 - 14:45** statt.
 
 | Zeit         |      Beschreibung                 |  Bemerkung     |
 |--------------|-----------------------------------|----------------|
@@ -79,4 +97,3 @@ Syntax highlighted code block
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).-->
-
