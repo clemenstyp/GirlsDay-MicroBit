@@ -11,7 +11,7 @@ Diese Präsentation beruht auf der Präsentation von [stritti](https://github.co
 
 **Deutsch:** Präsentation in HTML: **"Eine Einführung in die Informatik"**.
 
-## [▶ Präsentation starten](https://clemenstyp.github.io/GirlsDay-MicroBit/einfuehrung-in-die-informatik/src/start.html)
+## [▶ Präsentation starten](https://clemenstyp.github.io/GirlsDay-MicroBit/src/start.html)
 
 
 > Diese Präsentation ist komplett in Deutsch gehalten. Sie ist auf Teeanager ab dem 10. Lebensjahr ausgerichtet und soll ihnen den Spaß an der Informatik zeigen. Um die Hürden möglichst niedrig zu halten, ist der Inhalt Deutsch.
