@@ -19,7 +19,7 @@ Der Workshop findet am **26.4.2018** von **9:45 - 11:45** und von **12:45 - 14:4
 
 ## Links:
 - Beispielprogramm: [https://pxt.microbit.org/90160-58930-77638-19883](https://pxt.microbit.org/90160-58930-77638-19883)
-- online Editor: [https://pxt.microbit.org/?lang=de](https://pxt.microbit.org/?lang=de)
+- online Editor: [https://makecode.microbit.org](https://makecode.microbit.org)
 - BBC MicroBit Seite: [http://microbit.org/de/](http://microbit.org/de/)
 - Einführung ins Programmieren: [https://calliope.cc/content/7-lehrer-informationen/booklet_calliope_mit_hinweis_auf_lizenzform_ohne_stockfoto_end.pdf](https://calliope.cc/content/7-lehrer-informationen/booklet_calliope_mit_hinweis_auf_lizenzform_ohne_stockfoto_end.pdf)
 - Code Referenz: [https://pxt.microbit.org/reference](https://pxt.microbit.org/reference)
