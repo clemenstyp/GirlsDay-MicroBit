@@ -1,7 +1,7 @@
 # Coole Dinge mit micro:bit programmieren
 ## (7. - 10. Klasse)
 
-[Girls'Day micro:bit/](https://clemenstyp.github.io/GirlsDay-MicroBit/)
+[Girls'Day micro:bit](https://clemenstyp.github.io/GirlsDay-MicroBit/)
 
 In dem Workshop lernen wir, wie man kleine Programme schreibt und was man dann noch an coolen Dingen mit dem micro:bit anstellen kann. Diese Basics werden mit viel Praxis direkt in kreativen Projekten ausprobiert. Anschließend kann jede Teilnehmerin einen micro:bit mit nach Hause nehmen, um weiter daran zu üben und dann noch mehr kreative Dinge damit zu erstellen.
 
