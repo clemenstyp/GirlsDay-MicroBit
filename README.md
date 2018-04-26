@@ -11,7 +11,7 @@ Diese Präsentation beruht auf der Präsentation von [stritti](https://github.co
 
 **Deutsch:** Präsentation in HTML: **"Eine Einführung in die Informatik"**.
 
-## [▶ Präsentation starten](https://clemenstyp.github.io/GirlsDay-MicroBit/src/start.html)
+## [▶ Präsentation starten](https://clemenstyp.github.io/GirlsDay-MicroBit/einfuehrung/start.html)
 
 
 > Diese Präsentation ist komplett in Deutsch gehalten. Sie ist auf Teeanager ab dem 10. Lebensjahr ausgerichtet und soll ihnen den Spaß an der Informatik zeigen. Um die Hürden möglichst niedrig zu halten, ist der Inhalt Deutsch.
@@ -43,10 +43,34 @@ Der Workshop findet am **26.4.2018** von **9:45 - 11:45** und von **12:45 - 14:4
 - Code Referenz: [https://pxt.microbit.org/reference](https://pxt.microbit.org/reference)
 
 
-### Beispielanwendungen:
+## Beispielanwendungen:
 - Würfel: [https://pxt.microbit.org/02160-13677-24474-61646](https://pxt.microbit.org/02160-13677-24474-61646)
 - Würfel vereinfacht: [https://pxt.microbit.org/38129-53595-79641-79509](https://pxt.microbit.org/38129-53595-79641-79509)
 - Türschild: [https://pxt.microbit.org/98335-61183-64998-47776](https://pxt.microbit.org/98335-61183-64998-47776)
+
+### Schnick-chnack-Schnuck MultiPlayer
+
+[Rock Paper Scissors Teams](https://makecode.microbit.org/projects/rps-teams)
+
+### Reaction Game
+
+[![micro:bit reaction game - make YouTube Link](ReactionGame.png)](https://www.youtube.com/watch?v=DgJ-S0q0EMs)
+
+
+### Magic Trick
+
+[![MagicTrick YouTube Link](MagicTrick.png)](https://www.youtube.com/watch?v=0Icwbcf3nXM)
+
+### WarGames
+
+![WarGames](WarGames.gif)
+
+Code: [WarGames.js](https://gist.github.com/gingemonster/89f4eb986609ef477559d762765a4ebd)
+
+Wählt im Editor einfach JavaScript aus und fügt den Code ein.
+
+Video: [MicroMonsters Episode 7](https://www.youtube.com/watch?v=l7LTg15KPgE)
+
 
 
 ### Sonstige Links (nicht so wichtig):
