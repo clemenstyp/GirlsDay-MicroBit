@@ -21,20 +21,6 @@ Diese Präsentation beruht auf der Präsentation von [stritti](https://github.co
  > This presentation is completely in German. It is aimed at tea managers from the age of 10 and should show them the fun of computer science. To keep the hurdles as low as possible, the content is in German.
 
 
-## Ablauf:
-Der Workshop findet am **26.4.2018** von **9:45 - 11:45** und von **12:45 - 14:45** statt.
-
-| Zeit         |      Beschreibung                 |  Bemerkung     |
-|--------------|-----------------------------------|----------------|
-| 9:45 (12:45) | Kurze Begrüßung mit Vorstellrunde | Jedes Mädchen soll sich vorstellen und erzählen ob es schon etwas am Computer gemacht hat |
-| 10:00 (13:00) | Kurze Einführung in den Micro:Bit   | Das Gerät zeigen und die Funktionen kurz erklären (Tasten, LEDs, Batterie, PIN, USB, Reset, Kompass, Beschleunigungsmesser) |
-| 10:15 (13:15) | Onlineeditor vorstellen |  Eine kurze Einführung in den Onlineeditor geben. Wie installiere ich ein Programm auf den Micro:Bit, wie lasse ich den Code im Browser laufen. |
-|10:30 (13:40) | Erste Versuche mit dem Online Editor | Jeder soll das  [Beispielprojekt](https://pxt.microbit.org/90160-58930-77638-19883) im Browser öffnen und sich anschauen. Verstehen die Kinder das Projekt? Dann sollen sie mal auf den Play Button drücken. Was passiert dann? Kann wer das Programm erklären? Ansonsten erkläre ich das Programm|
-|10:45 (13:45) | Das Programm anpassen | Jetzt verändern wir mal das Programm. Wie könnte man das Programm verbessern? Was kann man noch einbauen?|
-|11:15 (14:15) | Brainstorming nach neuen Ideen | Was könnte man noch mit dem Micro:Bit alles machen? Ich zeige auch ein paar Onlineseiten wo man weitere Hilfe bekommt. |
-|11:40 (14:40) | Reflexion | Kurze Reflexion wie es den Teilnehmerinnen gefallen hat. Entweder wird ein kurzes Blitzlicht gemacht, oder es wird eine Micro:Bit Reflexion App genutzt (Bei der App kann man mit den Tasten des Micro:Bits zwischen Super, Mittel und Kacke auswählen). |
-
-
 ## Links:
 - Beispielprogramm: [https://pxt.microbit.org/90160-58930-77638-19883](https://pxt.microbit.org/90160-58930-77638-19883)
 - online Editor: [https://makecode.microbit.org](https://makecode.microbit.org)
@@ -100,6 +86,21 @@ Stand: 27.04.2017
 2. Öffne den [Online Editor](https://pxt.microbit.org/?lang=de) und klicke oben links auf "Projekte".
 3. Wähle im neuen Fenster "Datei importieren" aus und klicke auf "Datei auswählen".
 4. Suche deine Datei mit der Endung ".hex", die du in Schritt 1 gespeichert hast und klicke auf "Los geht's". Dein Programm sollte nun geladen werden und du kannst weitere Änderungen durchführen. Das Programm kannst du dann wie im Workshop gezeigt wieder herunterladen und auf deinem micro:bit ausprobieren. Viel Spaß damit ;-)
+
+
+
+## Grober Ablauf:
+Der Workshop findet am **26.4.2018** von **9:45 - 11:45** und von **12:45 - 14:45** statt.
+
+| Zeit         |      Beschreibung                 |  Bemerkung     |
+|--------------|-----------------------------------|----------------|
+| 9:45 (12:45) | Kurze Begrüßung mit Vorstellrunde | Jedes Mädchen soll sich vorstellen und erzählen ob es schon etwas am Computer gemacht hat |
+| 10:00 (13:00) | Kurze Einführung in den Micro:Bit   | Das Gerät zeigen und die Funktionen kurz erklären (Tasten, LEDs, Batterie, PIN, USB, Reset, Kompass, Beschleunigungsmesser) |
+| 10:15 (13:15) | Onlineeditor vorstellen |  Eine kurze Einführung in den Onlineeditor geben. Wie installiere ich ein Programm auf den Micro:Bit, wie lasse ich den Code im Browser laufen. |
+|10:30 (13:40) | Erste Versuche mit dem Online Editor | Jeder soll das  [Beispielprojekt](https://pxt.microbit.org/90160-58930-77638-19883) im Browser öffnen und sich anschauen. Verstehen die Kinder das Projekt? Dann sollen sie mal auf den Play Button drücken. Was passiert dann? Kann wer das Programm erklären? Ansonsten erkläre ich das Programm|
+|10:45 (13:45) | Das Programm anpassen | Jetzt verändern wir mal das Programm. Wie könnte man das Programm verbessern? Was kann man noch einbauen?|
+|11:15 (14:15) | Brainstorming nach neuen Ideen | Was könnte man noch mit dem Micro:Bit alles machen? Ich zeige auch ein paar Onlineseiten wo man weitere Hilfe bekommt. |
+|11:40 (14:40) | Reflexion | Kurze Reflexion wie es den Teilnehmerinnen gefallen hat. Entweder wird ein kurzes Blitzlicht gemacht, oder es wird eine Micro:Bit Reflexion App genutzt (Bei der App kann man mit den Tasten des Micro:Bits zwischen Super, Mittel und Kacke auswählen). |
 
 <!--- ### Markdown Help
 
