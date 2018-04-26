@@ -50,6 +50,9 @@ Der Workshop findet am **26.4.2018** von **9:45 - 11:45** und von **12:45 - 14:4
 
 ### Schnick-chnack-Schnuck MultiPlayer
 
+[![micro:bit rock paper scissors teams](RockPaper.png)](https://www.youtube.com/watch?time_continue=5&v=8ztOmdZi5Pw)
+
+
 [Rock Paper Scissors Teams](https://makecode.microbit.org/projects/rps-teams)
 
 ### Reaction Game
