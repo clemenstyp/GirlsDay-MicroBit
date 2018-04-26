@@ -5,6 +5,11 @@
 
 In dem Workshop lernen wir, wie man kleine Programme schreibt und was man dann noch an coolen Dingen mit dem micro:bit anstellen kann. Diese Basics werden mit viel Praxis direkt in kreativen Projekten ausprobiert. Anschließend kann jede Teilnehmerin einen micro:bit mit nach Hause nehmen, um weiter daran zu üben und dann noch mehr kreative Dinge damit zu erstellen.
 
+Wenn ihr noch Fragen habt könnt ihr mir auch gerne eine E-Mail schreiben: [clemens@putschli.de](mailto://clemens@putschli.de)
+
+## A oder B Demo
+[A oder B Code](https://makecode.microbit.org/_0uvRvP4WEVwh)
+
 # Einführung in die Informatik
 
 Diese Präsentation beruht auf der Präsentation von [stritti](https://github.com/stritti/girlsday-einfuehrung-informatik/blob/master/README.md).
