@@ -12,11 +12,16 @@ Leider ist die Version von Snake doch ein klein wenig komplizierter, da das Spie
 
 ![snake](2018/snake.gif)
 
-Um das an einem Beispiel etwas genauer zu erläutern: Es soll ja möglich sein am Rand entlang zu laufen. Die Funktion "Rand berühren?" wird jedoch schon aktiviert, wenn die Schlange, wie in dem Bild oben nur am Rand ist.
+Um das an einem Beispiel etwas genauer zu erläutern: Es soll ja möglich sein am Rand entlang zu laufen. Die Funktion "Rand berühren?" wird jedoch schon aktiviert, wenn die Schlange nur am Rand ist.
+ Aus diesem Grund musste eine etwas kompliziertere "Wenn-Dann" Schleife eingebaut werden. Diese Schleife überprüft ob sie Schlange sich nach oben (unten, links  oder rechts) bewegt und ob sie sich auch am Rand befindet (also z-B. ob y = 0 ist). Wenn eine dieser vier Bedingungen zutrifft, dann hat man das Spiel verloren.
+
+![snake-code](2018/snake-code.png)
+
+Hier ist das fertige Snake Programm: 
 
 [Snake Programm](2018/microbit-Snake1.hex)
 
-Code:
+und hier der passende Code dazu:
 [Snake Code](https://makecode.microbit.org/_UyoLq0icC4sb)
 
 ## A oder B Demo
