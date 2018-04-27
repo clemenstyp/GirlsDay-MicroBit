@@ -9,11 +9,12 @@ Wenn ihr noch Fragen habt könnt ihr mir auch gerne eine E-Mail schreiben: [clem
 
 ## Snake
 Leider ist die Version von Snake doch ein klein wenig komplizierter, da das Spiel nicht aufhören soll wenn die Schlange den Rand berührt, sondern sobald sie über den Rand hinaus geht.
-[snake](2018/snake.gif)
+![snake](2018/snake.gif)
 
 Um das an einem Beispiel etwas genauer zu erläutern: Es soll ja möglich sein am Rand entlang zu laufen. Die Funktion "Rand berühren?" wird jedoch schon aktiviert, wenn die Schlange, wie in dem Bild oben nur am Rand ist.
 
-[Snake](2018/microbit-Snake1.hex)
+[Snake Programm](2018/microbit-Snake1.hex)
+
 Code:
 [Snake Code](https://makecode.microbit.org/_UyoLq0icC4sb)
 
