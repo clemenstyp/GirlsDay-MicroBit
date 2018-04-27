@@ -8,11 +8,21 @@ In dem Workshop lernen wir, wie man kleine Programme schreibt und was man dann n
 Wenn ihr noch Fragen habt könnt ihr mir auch gerne eine E-Mail schreiben: [clemens@putschli.de](mailto://clemens@putschli.de)
 
 ## Snake
+Leider ist die Version von Snake doch ein klein wenig komplizierter, da das Spiel nicht aufhören soll wenn die Schlange den Rand berührt, sondern sobald sie über den Rand hinaus geht.
+```
+_______
+|     |
+|     |
+|     |
+|    *|
+|     |
+_______
+```
+Um das an einem Beispiel etwas genauer zu erläutern: Es soll ja möglich sein am Rand entlang zu laufen. Die Funktion "Rand berühren?" wird jedoch schon aktiviert, wenn die Schlange, wie in dem Bild oben nur am Rand ist. 
 
-Erste einfache Version:
 [Snake](2018/microbit-Snake1.hex)
 Code:
-[Snake Code](https://makecode.microbit.org/_4ki2xmA2RLsk)
+[Snake Code](https://makecode.microbit.org/_UyoLq0icC4sb)
 
 ## A oder B Demo
 [A oder B Code](https://makecode.microbit.org/_0uvRvP4WEVwh)
