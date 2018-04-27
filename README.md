@@ -7,6 +7,13 @@ In dem Workshop lernen wir, wie man kleine Programme schreibt und was man dann n
 
 Wenn ihr noch Fragen habt könnt ihr mir auch gerne eine E-Mail schreiben: [clemens@putschli.de](mailto://clemens@putschli.de)
 
+## Snake
+
+Erste einfache Version:
+[Snake](2018/microbit-Snake1.hex)
+Code:
+[Snake Code](https://makecode.microbit.org/_4qjfz48syYyz)
+
 ## A oder B Demo
 [A oder B Code](https://makecode.microbit.org/_0uvRvP4WEVwh)
 
