@@ -12,7 +12,7 @@ Wenn ihr noch Fragen habt könnt ihr mir auch gerne eine E-Mail schreiben: [clem
 Erste einfache Version:
 [Snake](2018/microbit-Snake1.hex)
 Code:
-[Snake Code](https://makecode.microbit.org/_4qjfz48syYyz)
+[Snake Code](https://makecode.microbit.org/_4ki2xmA2RLsk)
 
 ## A oder B Demo
 [A oder B Code](https://makecode.microbit.org/_0uvRvP4WEVwh)
