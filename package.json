@@ -13,7 +13,7 @@
   "homepage": "https://clemenstyp.github.io/GirlsDay-MicroBit/",
   "dependencies": {
     "impress.js": "^1.0.0",
-    "jquery": "^3.3.1",
+    "jquery": "^3.4.0",
     "lazyload": "^2.0.0-beta.2"
   },
   "devDependencies": {
